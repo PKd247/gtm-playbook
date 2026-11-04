@@ -2,7 +2,7 @@
 
 *A practical, step-by-step go-to-market framework for market entry and product launches.*
 
-Built from 16+ years of business and brand development experience by [Prem Kumar Loganathan](https://www.linkedin.com/in/premkumarloganathan/), founder of [d247 consulting](https://www.d247consulting.in).
+Built from 18+ years of business and brand development experience by [Prem Kumar Loganathan](https://www.linkedin.com/in/premkumarloganathan/), founder of [d247 consulting](https://www.d247consulting.in).
 
 ---
 
